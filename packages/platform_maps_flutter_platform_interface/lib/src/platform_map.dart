@@ -44,6 +44,7 @@ class PlatformMap extends StatelessWidget {
             onCameraMoveStarted: onCameraMoveStarted,
             onLongPress: onLongPress,
             onTap: onTap,
+            onMapCreated: onMapCreated,
             padding: padding,
             polylines: polylines,
             polygons: polygons,
